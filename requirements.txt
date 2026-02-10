@@ -3,3 +3,6 @@ google-cloud-bigquery
 google-auth
 pandas
 plotly
+pyarrow
+db-dtypes
+
